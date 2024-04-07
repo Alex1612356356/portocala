@@ -9,7 +9,7 @@ body{
 ##		Global Settings
 =======================================================================*/
 .btndown {
-  background-color: DodgerBlue;
+  background-color: MediumSeaGreen;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -17,10 +17,6 @@ body{
   font-size: 20px;
 }
 
-/* Darker background on mouse-over */
-.btndown:hover {
-  background-color: RoyalBlue;
-}
 @font-face {
     font-family:'catsi';
     src: url('catsi-webfont.woff2') format('woff2'),
