@@ -139,7 +139,7 @@ body{
 	text-align: center;
 	color: #fff;
 	letter-spacing: 3px;
-	background: #001348;
+	background: #F5F5DC;
 	position: relative;
 }
 .header-quote{
@@ -170,7 +170,7 @@ body{
     position: relative;
 }
 .nutral{
-	background-color: #28476B;
+	background-color: #F5F5DC;
 	height: 90px;
 	z-index: 10;
 	position: relative;
@@ -182,7 +182,7 @@ body{
 }
 .navbar-default{
 	border-color: #262626;
-    background-color: #b2c1e8;
+    background-color: #FFFFFF;
 	font-size:18px;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
