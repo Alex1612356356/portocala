@@ -1,5 +1,5 @@
 body{
-	background-color: #28476B;
+	background-color: #F5F5DC;
 	font-family: 'Oswald';
 	position: relative;
 	margin-top: 0;
@@ -79,7 +79,7 @@ body{
 }
 .btn-robot{
 	border-radius: 0;
-	background-color: #0131b4;
+	background-color: #F5F5DC;
 	color: #fff;
 	text-transform: uppercase;
 	border-color: transparent;
