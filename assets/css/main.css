@@ -282,7 +282,7 @@ div.sava h4{
 ##		Product Section
 =======================================================================*/
 .product .section-bg{
-	background-color: #b2c1e8;
+	background-color: #13cf38;
 }
 .porduct-box{
 	margin-bottom: 30px;
@@ -322,7 +322,7 @@ div.sava h4{
 }
 .outer-stiker{
 	display: inline-block;
-	color: #4974a5;
+	color: #13cf38;
 }
 .stiker{
 	display: inline-block;
@@ -359,7 +359,7 @@ div.sava h4{
 ##		History Section
 =======================================================================*/
 .history .section-bg{
-	background-color: #b2c1e8;
+	background-color: #13cf38;
 	text-align: center;
 }
 .history p{
@@ -378,7 +378,7 @@ div.sava h4{
 ##		Partner Section
 =======================================================================*/
 .partner .section-bg{
-	background-color: #b2c1e8;
+	background-color: #13cf38;
 	text-align: center;
 	padding-bottom: 80px;
 }
