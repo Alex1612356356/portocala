@@ -437,31 +437,31 @@ div.sava h4{
 	background-color: #313131;
 }
 .faq-header .intro{
-	background-image: url("../images/header-faq.png");
+	background-image: url("assets/images/portocala.jpg");
 }
 .shop-header .intro{
-	background-image: url(../images/shop-header.jpg);
+	background-image: url("assets/images/portocala.jpg");
 }
 .contact-header .intro{
-	background-image: url("../images/contact-header.png");
+	background-image: url("assets/images/portocala.jpg");
 }
 .about-header .intro{
-	background-image: url("../images/about-header.png");
+	background-image: url("assets/images/portocala.jpg");
 }
 .fll-header .intro{
-	background-image: url("../images/1060x480_FLL_tournament.png");
+	background-image: url("assets/images/portocala.jpg");
 }
 .stl-header .intro{
-	background-image: url("../images/header-about.png");
+	background-image: url("assets/images/portocala.jpg");
 }
 .gallery-header .intro{
-	background-image: url("../images/echipa.jpeg");
+	background-image: url("assets/images/portocala.jpg");
 }
 .about .page-bgc{
 	padding-bottom: 0;
 }
 .events-header .intro{
-	background-image: url("../images/events.jpeg");
+	background-image: url("assets/images/portocala.jpg");
 }
 
 
