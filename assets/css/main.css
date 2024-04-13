@@ -408,7 +408,7 @@ div.sava h4{
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: transparent;
 }
 .inner-header .breadcrumb{
 	margin-bottom: 0;
