@@ -92,8 +92,8 @@ body{
 }
 .btn-robot:hover{
 	background-color: transparent;
-	color: #206307;
-	border-color: #206307;
+	color: #7ffc03;
+	border-color: #7ffc03;
 }
 
 
@@ -282,7 +282,7 @@ div.sava h4{
 ##		Product Section
 =======================================================================*/
 .product .section-bg{
-	background-color: #206307;
+	background-color: #7ffc03;
 }
 .porduct-box{
 	margin-bottom: 30px;
@@ -297,7 +297,7 @@ div.sava h4{
     left: 25px;
     right: 25px;
     padding: 15px;
-    background-color: #206307;
+    background-color: #7ffc03;
     text-transform: uppercase;
     color: #fff;
     text-align: center;
@@ -314,7 +314,7 @@ div.sava h4{
 	position: absolute;
 	top: 3px;
 	left: 0;
-	border-top: 60px solid #206307;
+	border-top: 60px solid #7ffc03;
 	border-right: 60px solid transparent;
 	margin-left: -15px;
 	width: 250px;
@@ -322,7 +322,7 @@ div.sava h4{
 }
 .outer-stiker{
 	display: inline-block;
-	color: #206307;
+	color: #7ffc03;
 }
 .stiker{
 	display: inline-block;
@@ -359,14 +359,14 @@ div.sava h4{
 ##		History Section
 =======================================================================*/
 .history .section-bg{
-	background-color: #206307;
+	background-color: #7ffc03;
 	text-align: center;
 }
 .history p{
 	color: #111;
 }
 .history .title{
-	color: #206307;
+	color: #7ffc03;
 }
 .history img{
 	padding: 60px 0 0;
@@ -378,7 +378,7 @@ div.sava h4{
 ##		Partner Section
 =======================================================================*/
 .partner .section-bg{
-	background-color: #206307;
+	background-color: #7ffc03;
 	text-align: center;
 	padding-bottom: 80px;
 }
@@ -417,7 +417,7 @@ div.sava h4{
 	font-weight: 300;
 }
 .inner-header .breadcrumb>.active{
-	color: #206307;
+	color: #7ffc03;
 	font-weight:450;
 }
 .inner-header .breadcrumb a{
@@ -429,7 +429,7 @@ div.sava h4{
 	font-size: 16px;
 }
 .page-bgc{
-	background-color: #206307;
+	background-color: #7ffc03;
 	padding-bottom: 100px;
 }
 
@@ -524,7 +524,7 @@ div.sava h4{
   transition: all 0.4s ease-in-out;
 }
 .panel-default>.panel-heading:hover{
-	background-color: #206307;
+	background-color: #7ffc03;
 }
 .panel-default>.panel-heading+.panel-collapse>.panel-body {
   border-top: 2px solid rgba(0,0,0,.1);
@@ -706,7 +706,7 @@ div.sava h4{
 }
 .service-title .icon span{
 	font-size: 40px;
-	color: #206307;
+	color: #7ffc03;
 	margin-right: 15px;
 }
 .service-title div{
@@ -727,7 +727,7 @@ div.sava h4{
 	letter-spacing: 2px;
 }
 .m-s-title{
-	color: #206307;
+	color: #7ffc03;
 	margin: 0;
 	padding-top: 100px;
 }
